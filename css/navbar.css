@@ -1,0 +1,47 @@
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #000;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: White;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #696969;
+}
+
+img{
+  height: 15%;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+div.a {
+  font-size: 15px;
+}
+
+div.b {
+  font-size: large;
+}
+
+div.c {
+  font-size: 150%;
+}
+body > p {
+	font-size: 1.3em;
+	margin-left: 15px;
+}
